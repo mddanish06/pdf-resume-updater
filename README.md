@@ -15,8 +15,6 @@ This project implements an **intelligent PDF resume editor** that can modify res
 
 ---
 
-## 🎯 Assignment Requirements Met
-
 ### ✅ Core Functionalities Implemented
 
 1. **Works with Any Resume Layout**
