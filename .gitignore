@@ -4,7 +4,6 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 APPROACH_EXPLANATION.md
-CODE_EXPLANATION.md
 
 ### STS ###
 .apt_generated
